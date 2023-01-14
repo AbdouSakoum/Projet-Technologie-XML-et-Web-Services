@@ -1,1 +1,0 @@
-<h1>Projet Technologie XML et Web Services</h1>
